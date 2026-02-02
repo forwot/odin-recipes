@@ -1,0 +1,10 @@
+#dish-title {
+    background-color: gold;
+    padding: 10px;
+    text-align: center;
+    margin: 5px;
+}
+.laksa-img {
+    margin: auto;
+    display: flex;
+}
